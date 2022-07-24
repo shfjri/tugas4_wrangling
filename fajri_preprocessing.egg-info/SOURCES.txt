@@ -1,0 +1,7 @@
+README.md
+setup.py
+fajri_preprocessing.egg-info/PKG-INFO
+fajri_preprocessing.egg-info/SOURCES.txt
+fajri_preprocessing.egg-info/dependency_links.txt
+fajri_preprocessing.egg-info/requires.txt
+fajri_preprocessing.egg-info/top_level.txt
